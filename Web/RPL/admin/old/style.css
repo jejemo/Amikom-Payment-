@@ -1,0 +1,63 @@
+.navbar .woi {
+	background: #003A57;
+}
+.navbar-inner {
+	border: 0px;
+	background: #003A57;
+	border-radius: 0px;
+	font-family: calibri;
+}
+.head {
+	background: #191919;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	color: white;
+	font-family: calibri;
+	margin-bottom: 1px;
+}
+.atas {
+	width: 100%;
+	background: #006191;
+	margin-top: -20px;
+	color: white;
+	font-family: calibri light;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	margin-bottom: 30px;
+	font-size: 25px;
+}
+.atas
+h2 {
+	margin-left: 140px;
+}
+.atas
+small {
+	color: white;
+}
+.source {
+	border: 1px solid #CCCCCC;
+	background: #CCCCCC;
+	color: #698491;
+	border-radius: 3px;
+	padding: 3px;
+	margin-top: -5px;
+	padding-right: 20px;
+}
+.source:hover {
+	 cursor: default;
+}
+button[type=submit] {
+	border-radius: 3px;
+	background: #006191;
+	color: white;
+	border: 1px solid #006191;
+	padding: 5px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: -5px;
+}
+button[type=submit]:hover {
+	background: white;
+	color: #006191;
+}

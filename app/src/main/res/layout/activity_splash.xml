@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.joepriistomo.amipay.Splash">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/splash"
+        android:contentDescription="@string/splash"
+        android:scaleType="centerCrop"
+        android:paddingTop="300dp"
+        android:paddingLeft="20dp"
+        android:layout_marginRight="-50dp"
+        android:src="@drawable/splash" />
+
+</RelativeLayout>

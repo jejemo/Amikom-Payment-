@@ -1,0 +1,81 @@
+.purple-separator {
+  border-bottom: 4px solid #A51F69;
+  height: 1px;
+  width: 10%;
+  margin: auto;
+}
+.header-section-1 .part-inner {
+  margin: auto;
+  margin-top: 1em;
+}
+.header-section-1 .part-inner h1.title {
+  font-size: 50px;
+  font-weight: 600;
+}
+.header-section-1 .part-inner .detail {
+  margin-top: 0.5em;
+}
+.header-section-1 .part-inner .detail p {
+  font-size: 30px;
+}
+.header-section-1 .part-inner .btn-form .btn-purple {
+  color: #FFFFFF;
+  background-color: #DA13D2;
+  border: 1px solid transparent;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+}
+.header-section-1 .part-inner .btn-form .btn-purple:hover,
+.header-section-1 .part-inner .btn-form .btn-purple:focus,
+.header-section-1 .part-inner .btn-form .btn-purple:active {
+  background-color: #AF1BAD;
+  border: 1px solid #DA13D2;
+}
+.features-section-7 .section-header {
+  padding-top: 3em;
+}
+.features-section-7 .section-header .inner {
+  margin: auto;
+}
+.features-section-7 .section-header .inner .section-heading {
+  padding-bottom: 0px;
+}
+.features-section-7 .section-header .inner .detail {
+  width: 80%;
+  margin: auto;
+  margin-top: 2em;
+}
+.features-section-7 .section-header .inner .detail p {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.our-features {
+  background-color: #EEEEEE;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+.our-features .section-heading {
+  padding-bottom: 0px;
+  font-size: 35px;
+}
+.our-features .services-grid {
+  margin-top: 3em;
+}
+.support-to-section {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+.support-to-section .section-heading {
+  padding-bottom: 0px;
+  font-size: 35px;
+}
+.support-to-section .images {
+  margin-top: 3em;
+}
+.support-to-section .images .bank {
+  display: inline-block;
+}
+.support-to-section .images .bank + .bank {
+  margin-left: 2em;
+}
